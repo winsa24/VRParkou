@@ -627,11 +627,11 @@
     <Reference Include="Boo.Lang">
       <HintPath>/Users/weixiang/UnityWorkSpace/2019.4.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>

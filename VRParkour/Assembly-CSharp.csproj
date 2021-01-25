@@ -237,6 +237,7 @@
     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPVersion.cs" />
     <Compile Include="Assets\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
     <Compile Include="Assets\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
+    <Compile Include="Assets\Scripts\Angle.cs" />
     <Compile Include="Assets\Scripts\CoinRotator.cs" />
     <Compile Include="Assets\Scripts\LocomotionTechnique.cs" />
     <Compile Include="Assets\Scripts\ParkourCounter.cs" />
@@ -884,6 +885,14 @@
     <ProjectReference Include="Oculus.Platform.csproj">
       <Project>{A6DB2016-97F0-18DA-24B5-065311EF3C78}</Project>
       <Name>Oculus.Platform</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleInput.Runtime.csproj">
+      <Project>{8A4DAB16-C628-09A3-BE07-35ECC4D2BC65}</Project>
+      <Name>SimpleInput.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleInput.Editor.csproj">
+      <Project>{B078FC5B-FDD1-1F9C-0F1D-D4DC2641BF2B}</Project>
+      <Name>SimpleInput.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

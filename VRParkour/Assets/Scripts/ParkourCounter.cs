@@ -43,10 +43,12 @@ public class ParkourCounter : MonoBehaviour
     public AudioSource backgroundMusic;
     public AudioSource endSoundEffect;
 
+    
     public GameObject welcomeText;
     public GameObject FightingText;
     public GameObject AllezText;
     public GameObject IppImage;
+
 
     void Start()
     {

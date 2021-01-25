@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using SimpleInputNamespace;
 using UnityEngine;
 
 public class LocomotionTechnique : MonoBehaviour
@@ -30,6 +31,9 @@ public class LocomotionTechnique : MonoBehaviour
     private int Lflag = 0;
     private int Rflag = 0;
 
+    //public GameObject sw;
+    public SteeringWheel steeringWheel;
+
     /////////////////////////////////////////////////////////
     // These are for the game mechanism.
     public ParkourCounter parkourCounter;
@@ -54,7 +58,7 @@ public class LocomotionTechnique : MonoBehaviour
             initpositionL = OVRInput.GetLocalControllerPosition(OVRInput.Controller.LTouch);
             Lflag += 1;
         }
-        if(Rflag >=1 && Lflag <= 1)
+        if(Rflag >=1 && Lflag >= 1)
         {
             levelText.SetActive(false);
         }
@@ -143,6 +147,15 @@ public class LocomotionTechnique : MonoBehaviour
         mRotation = Quaternion.Euler(0, rotation, 0);
         this.transform.rotation = mRotation;
 
+        steeringWheel.wheelAngle = rotation * 1.5f;
+
+        //float angleBetweenLHandAndHMD = Vector3.Angle(currentpositionL, hmd.transform.forward);
+        //float angleBetweenRHandAndHMD = Vector3.Angle(currentpositionR, hmd.transform.forward);
+        //float angleAVE = (angleBetweenLHandAndHMD + angleBetweenRHandAndHMD) / 2 * 1.5f;
+
+        //Vector3 swr = new Vector3;
+        //Quaternion finalswRotation = Quaternion.Euler(swr + hmd.transform.forward.normalized);
+        //sw.transform.rotation = Quaternion.Euler(0, 0, 180 + rotation);
 
 
         //leftTriggerValue = OVRInput.Get(OVRInput.Axis1D.PrimaryIndexTrigger, leftController);

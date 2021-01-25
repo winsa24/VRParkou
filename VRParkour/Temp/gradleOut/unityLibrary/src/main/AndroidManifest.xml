@@ -14,7 +14,7 @@
     <meta-data android:name="unity.splash-mode" android:value="0" />
     <meta-data android:name="unity.splash-enable" android:value="False" />
     <meta-data android:name="notch.config" android:value="portrait|landscape" />
-    <meta-data android:name="unity.build-id" android:value="dc37bb13-fe30-4a17-b38a-22158e9d33dc" />
+    <meta-data android:name="unity.build-id" android:value="99c4c9a1-6044-4f94-a990-96e0e75097af" />
     <meta-data android:name="com.samsung.android.vr.application.mode" android:value="vr_only" />
     <meta-data android:name="com.oculus.supportedDevices" android:value="quest|delmar" />
   </application>

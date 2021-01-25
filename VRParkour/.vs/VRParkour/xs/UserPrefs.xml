@@ -1,33 +1,23 @@
 ﻿<Properties StartupConfiguration="{08B8BE5C-493B-036E-E92B-92F392DEB8A1}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LocomotionTechnique.cs">
     <Files>
-      <File FileName="Assets/Scripts/LocomotionTechnique.cs" Line="27" Column="27" />
-      <File FileName="Assets/Oculus/VR/Scripts/OVRInput.cs" />
-      <File FileName="Assets/Scripts/CoinRotator.cs" />
+      <File FileName="Assets/Scripts/LocomotionTechnique.cs" Line="107" Column="100" />
+      <File FileName="Assets/Scripts/CoinRotator.cs" Line="16" Column="67" />
       <File FileName="Assets/Scripts/ParkourCounter.cs" />
+      <File FileName="Assets/Plugins/SimpleInput/Scripts/AxisInputs/SteeringWheel.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Angle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="VRParkour" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Oculus" expanded="True">
-                <Node name="VR" expanded="True">
-                  <Node name="Scripts" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="Scripts" expanded="True">
-                <Node name="LocomotionTechnique.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="VRParkour" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d729d319-9533-4a3a-a173-3a55004e7a1e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fbb9bb0f-b3c5-4fc1-b773-a9db33f81cb8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

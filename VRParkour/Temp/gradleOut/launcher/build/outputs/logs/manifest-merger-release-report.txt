@@ -10,7 +10,7 @@ INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkou
 INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
 INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
 	package
-		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-108
+		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-105
 		INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 		INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 	android:versionName
@@ -18,7 +18,7 @@ INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkou
 		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
 		INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:109-155
+		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:106-152
 	android:versionCode
 		INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
@@ -26,7 +26,7 @@ INJECTED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkou
 	xmlns:android
 		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
 	android:installLocation
-		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:156-186
+		ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:153-183
 supports-screens
 ADDED from /Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
 	android:largeScreens

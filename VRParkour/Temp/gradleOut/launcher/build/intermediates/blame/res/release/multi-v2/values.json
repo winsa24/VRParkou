@@ -6,11 +6,9 @@
                 {
                     "source": "/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "2",
@@ -23,37 +21,34 @@
                 {
                     "source": "/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "53,98",
-                        "endColumns": "44,65",
-                        "endOffsets": "95,161"
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "53,-1",
+                        "endColumns": "49,-1",
+                        "endOffsets": "100,-1"
                     },
                     "to": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "101,148",
-                        "endColumns": "46,67",
-                        "endOffsets": "143,211"
+                        "startOffsets": "101,153",
+                        "endColumns": "51,67",
+                        "endOffsets": "148,216"
                     }
                 },
                 {
                     "source": "/Users/weixiang/UnityWorkSpace/VR-locomotion-parkour-main/VRParkour/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "5,2,7",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "190,53,288",
-                        "endLines": "6,4,10",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "286,188,513"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "5,7,10",
                         "startColumns": "4,4,4",
-                        "startOffsets": "216,316,454",
+                        "startOffsets": "221,321,459",
                         "endLines": "6,9,13",
                         "endColumns": "8,8,8",
-                        "endOffsets": "311,449,676"
+                        "endOffsets": "316,454,681"
                     }
                 }
             ]
