@@ -7,7 +7,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## How to Start
 ```
-git clone https://github.com/wenjietseng/VR-locomotion-parkour.git
+git clone https://github.com/winsa24/VRParkou.git
 ```
 
 ## Used Assets and Packages
