@@ -1,16 +1,14 @@
 # VR-locomotion-parkour
+## Refer from https://github.com/wenjietseng/VR-locomotion-parkour.git
 ## Demo Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5s-vTwTFc7U
-" target="_blank"><img src="http://img.youtube.com/vi/5s-vTwTFc7U/0.jpg" 
+<a href="https://www.youtube.com/watch?v=wKmwVckSEc8
+" target="_blank"><img src="http://img.youtube.com/vi/wKmwVckSEc8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## How to Start
 ```
 git clone https://github.com/wenjietseng/VR-locomotion-parkour.git
 ```
-- download the GitHub repo and open __VRParkour__ folder as a Unity project
-- implement your locomotion technique in `LocomotionTechnique.cs`
-- play and see how fast and how many coins you can get!
 
 ## Used Assets and Packages
 ### core
